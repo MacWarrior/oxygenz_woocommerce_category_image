@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Oxygenz - Woocommerce : Category image
-Description : Create a shortcode to display main product category images with direct link to category
+Description: Create a shortcode to display main product category images with direct link to category
 Version: 1.0
 Author: Oxygenz
 */
